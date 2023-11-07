@@ -1,26 +1,6 @@
-# MIT Scratch project
-
-Inspired from MIT Scratch
-
-Deployed at (Desktop Only): https://mit-scratch-clone-peeyush-goyal.netlify.app/
-
-![image](https://user-images.githubusercontent.com/42883572/129966464-972f658a-fc79-481f-9983-69b795a2d701.png)
-![image](https://user-images.githubusercontent.com/42883572/129966630-9dcbd470-d4c4-4c7d-b7eb-37496b770f08.png)
-![image](https://user-images.githubusercontent.com/42883572/129966793-8ffc65fc-dae3-4395-877f-31de2b16768c.png)
-
 
 
 This project covers main features of 4 sections of MIT Scratch
-
-## Features
-* Drag and Drop your favourite functions to the lists
-* Move functions between lists
-* If you want to remove any function from Mid Area just drag and drop outside list
-* You can create as many sprints as you want
-* Move the sprint around Preview Area using Mouse
-* Choose Sprint for which you want to execute you GUI Program
-* Create as many as you like program lists
-* Create long programs
 
 ### Sections
 * #### Motion
@@ -50,11 +30,6 @@ This project covers main features of 4 sections of MIT Scratch
 3. Redux
 4. Material UI
 
-##### NOTE:
-Almost All functions are attached with **transition**.
-There might be some delay in executing few functions. I know you would be very much excited for seeing it in action. 😄. Just a little patience 😊
-
-## DO NOT COPY OR USE THIS FOR ANY COMMERCIAL PURPOSES
 
 To get started:
 
